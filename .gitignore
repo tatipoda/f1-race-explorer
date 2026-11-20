@@ -1,0 +1,28 @@
+# Compiled Java files
+*.class
+bin/
+out/
+
+# Eclipse configuration
+.settings/
+.classpath
+.project
+
+# VS Code configuration
+.vscode/
+
+# External dependencies
+lib/
+*.jar
+
+# Local API cache and user preferences
+cache/
+settings.txt
+
+# macOS system files
+.DS_Store
+__MACOSX/
+
+# Other local files
+.Rhistory
+.env
